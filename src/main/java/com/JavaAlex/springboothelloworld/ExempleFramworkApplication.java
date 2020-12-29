@@ -10,6 +10,7 @@ public class ExempleFramworkApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(ExempleFramworkApplication.class, args);
+
 	}
 
 }
